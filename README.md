@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ujjwal136
 - 👀 I’m interested in creating new things with my coding knowledge
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects related to JavaScripts
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects related to Python
 - 📫 How to reach me Through GitHub
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
