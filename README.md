@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @Ujjwal136
-- 👀 I’m interested in creating new things with my coding knowledge
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects related to Python
-- 📫 How to reach me Through GitHub
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋 I'm Ujjwal Garg!
 
-<!---
-Ujjwal136/Ujjwal136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student | Aspiring Developer**
+
+---
+
+## 🚀 About Me
+
+I'm Ujjwal, a passionate student with a love for coding and creativity. I enjoy exploring new ways to use my Python skills to build something unique and meaningful. Whether it's experimenting with fun scripts or diving into new tech trends, I always strive to push my limits and learn more.
+
+---
+
+## 🛠️ Top Skills
+
+- **Python** (My favorite language!)
+- Experimenting & learning by doing
+
+---
+
+## 🌱 Hobbies & Interests
+
+- Trying to create something unique with my coding skills
+- Exploring tech innovations
+- Connecting with fellow learners
+
+---
+
+## 📫 Connect with Me
+
+- [Instagram](https://www.instagram.com/_ujjwal_garg13/)
+
+---
+
+<!--
+✨ Fun fact: I believe creativity and code can change the world!
+-->
+
+Thanks for stopping by! 😊
