@@ -12,8 +12,10 @@ I'm Ujjwal, a passionate student with a love for coding and creativity. I enjoy 
 
 ## 🛠️ Top Skills
 
-- **Python** (My favorite language!)
-- C++ (Focusing on DSA)
+- **Python**
+- **Machine Learning**
+- Data Cleaning
+- C++
 - Experimenting & learning by doing
 
 ---
@@ -21,8 +23,8 @@ I'm Ujjwal, a passionate student with a love for coding and creativity. I enjoy 
 ## 🌱 Hobbies & Interests
 
 - Trying to create something unique with my coding skills
+- Experimenting Myself with the Tech
 - Exploring tech innovations
-- Connecting with fellow learners
 
 ---
 
